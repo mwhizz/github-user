@@ -2,9 +2,9 @@
   "name": "git-users",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "app/main.js",
   "scripts": {
-	"start": "node main.js"
+	"start": "node app/main.js"
   },
   "keywords": [],
   "author": "",
